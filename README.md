@@ -1,4 +1,4 @@
-# Coding-in-HumanScript
+# Coding in HumanScript
 Saga de aprendizado de um Dev-in-Development
 
 Hello zeros and ones! Sejam bem-vindos.
