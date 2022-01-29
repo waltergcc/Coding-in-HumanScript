@@ -1,8 +1,10 @@
+# My Personal Bugs
+
 Quero falar aqui um pouco do desafio dos códigos para mim, e quais os bugs são frequentes em minha mente.
 
 Para dar um pouco de contexto vou fazer um breve relato em como cheguei até aqui 
 
-Na adolescência, assim como hoje, eu era fascinado pelos avanços tecnológicos. Tive a oportunidade através do esforço dos meus pais em fazer o ensino médio com o curso técnico de programação. Eu e os códigos nos dávamos muito bem. E que o hoje é chamado de Front End também. Naquela época era apenas Design (rs)
+Na adolescência, assim como hoje, eu era fascinado pelos avanços tecnológicos. Tive a oportunidade através do esforço dos meus pais em fazer o ensino médio com o curso técnico de programação. Eu e os códigos nos dávamos muito bem. E que o hoje é chamado de Front End também. _Naquela época era apenas Design (rs)_
 
 Sendo que ao finalizar o ensino médio vieram todas as incertezas do que fazer junto com a oportunidade de trabalhar com suporte, que me fizeram deixar o Visual Basic, Delphi e companhia. 
 
