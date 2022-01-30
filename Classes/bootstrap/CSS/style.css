@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar{
+    padding-left: 15px;
+}
+.quem-somos{
+    background: rgb(243, 243, 243);
+    }
+
+.margin{
+    text-align: center;
+    padding: 30px;
+}
+
+.rounded-circle{
+    border-radius: 50%;
+    border: white solid;
+    width: 200px;
+    height: 200px;
+}
+
+.square_img{
+    width: 300px;
+    border: white solid;
+    border-radius: 5px;
+}
+
+.bg-footer{
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
