@@ -1,0 +1,30 @@
+C:\workspace\DIO\bin\Debug\net6.0\DIO.exe
+C:\workspace\DIO\bin\Debug\net6.0\DIO.deps.json
+C:\workspace\DIO\bin\Debug\net6.0\DIO.runtimeconfig.json
+C:\workspace\DIO\bin\Debug\net6.0\DIO.dll
+C:\workspace\DIO\bin\Debug\net6.0\ref\DIO.dll
+C:\workspace\DIO\bin\Debug\net6.0\DIO.pdb
+C:\workspace\DIO\obj\Debug\net6.0\DIO.csproj.AssemblyReference.cache
+C:\workspace\DIO\obj\Debug\net6.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\obj\Debug\net6.0\DIO.AssemblyInfoInputs.cache
+C:\workspace\DIO\obj\Debug\net6.0\DIO.AssemblyInfo.cs
+C:\workspace\DIO\obj\Debug\net6.0\DIO.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\obj\Debug\net6.0\DIO.dll
+C:\workspace\DIO\obj\Debug\net6.0\ref\DIO.dll
+C:\workspace\DIO\obj\Debug\net6.0\DIO.pdb
+C:\workspace\DIO\obj\Debug\net6.0\DIO.genruntimeconfig.cache
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\bin\Debug\net6.0\DIO.exe
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\bin\Debug\net6.0\DIO.deps.json
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\bin\Debug\net6.0\DIO.runtimeconfig.json
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\bin\Debug\net6.0\DIO.dll
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\bin\Debug\net6.0\ref\DIO.dll
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\bin\Debug\net6.0\DIO.pdb
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.csproj.AssemblyReference.cache
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.AssemblyInfoInputs.cache
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.AssemblyInfo.cs
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.csproj.CoreCompileInputs.cache
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.dll
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\ref\DIO.dll
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.pdb
+C:\workspace\Coding-in-HumanScript\classes\.NET\Hello World\obj\Debug\net6.0\DIO.genruntimeconfig.cache
