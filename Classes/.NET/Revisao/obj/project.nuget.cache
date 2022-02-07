@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDei8inwOn69vFcQQfuY5v94966O/7pQIgJ7inmkgZh4DMiajLvJ0jgBarNtvMDfPAQY2W1XHkDgW69fL6s//Q==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Coding-in-HumanScript\\classes\\.NET\\Revisao\\Revisao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waltinho\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Waltinho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Waltinho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Waltinho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
